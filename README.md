@@ -22,8 +22,13 @@
 >> 缩进2
 >>> 缩进3
 ---
-
+姓名|技能|排行
+--|:--:|--:
+刘备|哭|大哥
+关羽|打|二哥
+张飞|骂|三弟
 ---
 记得一定要加http://
+
 [baidu]( http://www.baidu.com)
 ![自拍](https://www.baidu.com/img/bd_logo1.png)
